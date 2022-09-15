@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.greaterworkstech.arafydeliveriesvendor"
+    name: "Arafy Vendor"
+  ios:
+    id: "com.greaterworkstech.arafydeliveriesvendor"
+    name: "Arafy Vendor"
